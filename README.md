@@ -1,6 +1,6 @@
 ## Degen Devs NFT Project for Week 4 Weekend Project
 
-##Summary of Metadata for Images for Degen Devs NFTs
+## Summary of Metadata for Images for Degen Devs NFTs
 
 *Degen Dev 1
 ![image](https://user-images.githubusercontent.com/100870737/179354407-e67d0535-acd0-48e2-89fd-0758b9f81f6b.png)
